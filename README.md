@@ -1,2 +1,2 @@
 # google-input-tool
-google transliteration
+The change for this is in https://github.com/sambhuWeb/Tools repository.
